@@ -4,7 +4,7 @@
 <h3 align="center">Aspiring Software Developer</h3>
 
 <p align="center">
-  Software Development | Back-end | Databases
+  Software Development | Full-Stack 
 </p>
 
 <p align="center">
