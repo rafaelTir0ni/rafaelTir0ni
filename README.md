@@ -4,33 +4,37 @@
 <h3 align="center">Aspiring Software Developer</h3>
 
 <p align="center">
-  Desenvolvimento de Software | Full-Stack 
+  Software Development | Back-end | Databases
+</p>
+
+<p align="center">
+  Santa Catarina, Brazil
 </p>
 
 ---
 
-<h3 align="center">Sobre mim</h3>
+<h3 align="center">About Me</h3>
 
 <p align="center">
-  Sou estudante de <strong>Desenvolvimento de Sistemas</strong>, com interesse em programação, tecnologia e resolução de problemas por meio do software.
+  I'm a <strong>Systems Development</strong> student from Santa Catarina, Brazil, with a strong interest in programming, technology, and solving real-world problems through software.
 </p>
 
 <p align="center">
-  Busco evoluir constantemente minhas habilidades em desenvolvimento de software. Pretendo cursar <strong>Ciência da Computação</strong> e futuramente me especializar em <strong>Cibersegurança</strong>.
+  I'm constantly working to improve my software development skills. I plan to pursue a degree in <strong>Computer Science</strong> and eventually specialize in <strong>Cybersecurity</strong>.
 </p>
 
 ---
 
-<h3 align="center">Tecnologias</h3>
+<h3 align="center">Technologies</h3>
 
-<p align="center"><strong>Linguagens e desenvolvimento web</strong></p>
+<p align="center"><strong>Programming Languages & Web Development</strong></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp&theme=dark" alt="HTML, CSS, JavaScript, PHP e C++" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp&theme=dark" alt="HTML, CSS, JavaScript, PHP and C++" />
 </p>
 
-<p align="center"><strong>Banco de dados e ferramentas</strong></p>
+<p align="center"><strong>Databases & Development Tools</strong></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="MySQL, Git, GitHub e VS Code" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="MySQL, Git, GitHub and VS Code" />
 </p>
